@@ -2,3 +2,8 @@ print("hello")
 print("hi")
 namasthe
 vyshu
+
+talla
+71
+20
+1999
